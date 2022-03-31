@@ -10,6 +10,11 @@ Rounded Corners
 Headers
 */
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Barlow Semi Condensed';
+  color: #555555;
+}
+
 h2 {
   font-size: 60px;
 }
