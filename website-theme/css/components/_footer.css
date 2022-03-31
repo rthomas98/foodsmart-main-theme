@@ -1,0 +1,35 @@
+.footer {
+    background-color: #173213;
+    color: white;
+}
+
+.footer .nav-link {
+    font-size: 17px;
+    color: white;
+}
+.footer .nav-link:hover {
+    color: #E7754F;
+}
+.social .nav-link {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0 5px;
+    display: flex;
+    align-items: center;
+}
+
+.social .nav-link img {
+    width: 12px;
+}
+.copyright p, .copyright .nav-link {
+    font-size: 13px;
+}
+.copyright a, .copyright .nav-link {
+    color: white;
+    text-decoration: none;
+}
+.copyright a:hover, .copyright .nav-link:hover {
+    color: #E7754F;
+}

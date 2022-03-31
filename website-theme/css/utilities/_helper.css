@@ -1,0 +1,140 @@
+/*
+Rounded Corners
+*/
+
+.rounded-corners-30 {
+  border-radius: 30px;
+}
+
+/*
+Headers
+*/
+
+h2 {
+  font-size: 60px;
+}
+
+.cta-bar h3 {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FFFFFF;
+}
+
+.cta-bar h4 {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 140.62%;
+  color: #FFFFFF;
+}
+
+.cta-bar p {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
+
+
+/*
+Backgrounds
+*/
+.deep-green-bg {
+  background-color: #173213;
+}
+
+.deep-blue-bg {
+  background-color: #293F48;
+}
+
+.deep-purple-bg {
+  background-color: #3F2A35;
+}
+
+.light-gray-bg {
+  background-color: #E4E7E8;
+}
+
+.mid-purple {
+  background-color: #774461;
+}
+
+.deep-blue {
+  background-color: #293F48;
+}
+
+.blue-bg {
+  background-color: #5092B9;
+}
+.green-bg {
+  background-color: #478043;
+}
+
+/*
+Buttons
+*/
+
+.btn-orange {
+  background-color: #E7754F !important;
+  color: #000000 !important;
+  border-radius: 60px !important;
+}
+
+.btn-green {
+  background-color: #478043 !important;
+  color: white !important;
+  border-radius: 60px !important;
+}
+
+.btn-green-outline {
+  background-color: transparent !important;
+  color: #478043 !important;
+  border-radius: 60px !important;
+  border: 1px solid #478043;
+}
+
+.btn-green-outline:hover {
+  background-color: #478043 !important;
+  color: white !important;
+  border-radius: 60px !important;
+  border: 1px solid #478043;
+}
+
+/*
+Ecosystem Ideation
+*/
+
+.ecosystem-ideation-slot {
+  min-height: 404px;
+}
+
+.ecosystem-ideation h2 {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FFFFFF;
+}
+.ecosystem-ideation h3 {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 140.62%;
+  color: #FFFFFF;
+}
+.ecosystem-ideation p {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140.62%;
+  color: #FFFFFF;
+}
