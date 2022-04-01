@@ -15,8 +15,40 @@ h1, h2, h3, h4, h5, h6 {
   color: #555555;
 }
 
-h2 {
+h1 {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 700;
   font-size: 60px;
+  line-height: 72px;
+  color: #555555;
+}
+
+h2 {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  color: #555555;
+}
+
+.h2-subheader {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  color: #555555;
+}
+
+h3 {
+  font-family: 'Barlow Semi Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 140.62%;
+  color: #555555;
 }
 
 .cta-bar h3 {
@@ -79,6 +111,10 @@ Backgrounds
 }
 .green-bg {
   background-color: #478043;
+}
+
+.white-bg {
+  background-color: #ffffff;
 }
 
 /*

@@ -1,0 +1,21 @@
+<!--
+  templateType: page
+  isAvailableForNewContent: true
+  label: Form Content Template
+  screenshotPath: ../images/template-previews/homepage-members.png
+-->
+{% extends "./layouts/base.html" %}
+
+{% block body %}
+
+{% dnd_area "body_dnd_area" 
+
+label="Main section",
+class="container-fluid p-0"
+
+%}
+
+
+{% end_dnd_area %}
+
+{% endblock body %}
