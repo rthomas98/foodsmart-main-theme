@@ -11,6 +11,10 @@
   font-size: 17px;
 }
 
+.navbar-expand-lg .navbar-nav .btn {
+  font-size: 17px !important;
+}
+
 .dropdown-menu .nav .nav-link {
   color: #555555 !important;
 }
