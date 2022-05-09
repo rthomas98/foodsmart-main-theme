@@ -4,9 +4,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;400;700&display=swap');
 
 body {
-    font-family: 'Barlow Semi Condensed';
+    font-family: 'Barlow Semi Condensed' !important;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 140.62%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Barlow Semi Condensed' !important;
 }
